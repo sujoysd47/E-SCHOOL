@@ -1,0 +1,170 @@
+
+
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+
+/* hero section */
+.logo{
+  width: 55%;
+}
+.hero_text h2 {
+font-size: 28px;
+line-height: 44px;
+}
+.hero_text p {
+line-height: 30px;
+}
+
+/* course */
+.course-section {
+padding-bottom: 60px;
+}
+.course {
+padding: 12px;
+}
+.course h2 {
+font-size: 20px;
+line-height: 30px;
+}
+.features {
+padding: 65px 0px;
+}
+
+/* testimonial start */
+.t_text p {
+text-align: center;
+margin-top: 15px;
+}
+/* footer  */
+footer{
+	padding: 50px 0 40px;
+    background-color: #282531;
+    color: #fff;
+}
+.footer_text p {
+  margin-right: 0px;
+  text-align: center;
+}
+ 
+
+ 
+    
+    
+ }
+    
+    
+/* // Small devices (landscape phones, 576px and up) */
+ @media (min-width: 576px) and (max-width: 767.98px) {
+      
+    /* hero section */
+    .logo{
+      width: 35%;
+    }
+  .hero_text h2 {
+    font-size: 35px;
+    line-height: 52px;
+  }
+  .hero_text p {
+    line-height: 30px;
+   }
+    
+  /* course */
+  .course-section {
+    padding-bottom: 60px;
+  }
+  .course {
+    padding: 10px;
+  }
+  .course h2 {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .features {
+    padding: 65px 0px;
+  }
+
+  /* testimonial start */
+  .t_text p {
+    text-align: center;
+    margin-top: 15px;
+  }
+  /* footer  */
+  .footer_text p {
+      margin-right:0px;
+  }
+    
+
+}
+    
+    
+    
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    
+    /* hero section */
+    .logo{
+      width: 25%;
+    }
+  .hero_text h2 {
+    font-size: 35px;
+    line-height: 52px;
+  }
+  .hero_text p {
+    line-height: 30px;
+   }
+    
+  /* course */
+  .course-section {
+    padding-bottom: 60px;
+  }
+  .course {
+    padding: 16px;
+  }
+  .features {
+    padding: 65px 0px;
+  }
+/* footer  */
+  .footer_text p {
+      margin-right: 10px;
+  }
+
+   
+    
+    
+}
+    
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    
+  /* hero section */
+  .hero_text h2 {
+    font-size: 42px;
+    line-height: 62px;
+  }
+    
+  /* course */
+  .course {
+    padding: 16px;
+  }
+    .course ul li {
+        margin-right: -16px;
+   }
+/* footer  */
+  .footer_text p {
+      margin-right: 10px;
+  }
+
+}
+    
+    
+    
+/* // x-Large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+}
+
+/* //  Extra Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1400px) {
+
+}
